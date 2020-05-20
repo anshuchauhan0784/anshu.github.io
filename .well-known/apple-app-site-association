@@ -3,17 +3,6 @@
       "details": [
            {
              "appIDs": [ "4RB2ZPF42L.com.example.dstDemo"]
-             "components": [
-               {
-                  "*": "*",
-                  "comment": "Matches any URL"
-               },
-               {
-                  "/": "*",
-                  "comment": "Matches any URL whose path starts with /buy/"
-               }
-              
-             ]
            }
        ]
    },
